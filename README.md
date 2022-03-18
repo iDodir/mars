@@ -4,6 +4,7 @@ python manage.py startapp mars_api
 
 # миграции
 python manage.py makemigrations
+
 python manage.py migrate
 
 чтобы создать новую БД в консоли пишем:
