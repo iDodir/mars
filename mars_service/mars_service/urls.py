@@ -21,6 +21,7 @@ from django.conf.urls.static import static
 import orders_app.views
 
 # Comment
+# Another comment to peter branch
 
 urlpatterns = [
     path('orders_app/', include('orders_app.urls')),
